@@ -1,0 +1,31 @@
+RFID_UID,Product_ID,Product_Name,Category,Price
+RFID0001,P001,Amul Milk 1L,Dairy,32
+RFID0002,P002,Britannia Bread,Bakery,45
+RFID0003,P003,Amul Butter 100g,Dairy,60
+RFID0004,P004,Parle-G Biscuits,Biscuits,10
+RFID0005,P005,Good Day Biscuits,Biscuits,30
+RFID0006,P006,Amul Cheese 200g,Dairy,140
+RFID0007,P007,Farm Eggs 6 Pack,Dairy,55
+RFID0008,P008,Corn Flakes 500g,Breakfast,180
+RFID0009,P009,Oats 500g,Breakfast,120
+RFID0010,P010,Tea 250g,Beverages,140
+RFID0011,P011,Coffee 100g,Beverages,160
+RFID0012,P012,Tata Salt 1kg,Staples,28
+RFID0013,P013,India Gate Rice 5kg,Staples,420
+RFID0014,P014,Toor Dal 1kg,Staples,160
+RFID0015,P015,Fortune Sunflower Oil 1L,Staples,145
+RFID0016,P016,Aashirvaad Atta 5kg,Staples,280
+RFID0017,P017,Maggi Noodles 70g,Instant Food,15
+RFID0018,P018,Kissan Tomato Ketchup,Sauces,110
+RFID0019,P019,Lays Classic Chips,Snacks,20
+RFID0020,P020,Kurkure Masala,Snacks,20
+RFID0021,P021,Coca-Cola 750ml,Beverages,45
+RFID0022,P022,Tropicana Juice 1L,Beverages,125
+RFID0023,P023,Cadbury Dairy Milk,Chocolates,50
+RFID0024,P024,Haldiram's Bhujia,Snacks,75
+RFID0025,P025,Dettol Soap,Personal Care,45
+RFID0026,P026,Dove Shampoo 180ml,Personal Care,220
+RFID0027,P027,Colgate Toothpaste,Personal Care,105
+RFID0028,P028,Closeup Toothbrush,Personal Care,60
+RFID0029,P029,Surf Excel 1kg,Household,180
+RFID0030,P030,Vim Dishwash Bar,Household,25
